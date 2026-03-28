@@ -5,7 +5,7 @@
 
 # Talal Habib Malik
 
-### Software Engineer • AI Engineer
+### Software Engineer • Backend Engineer • System Design Engineer • AI Engineer
 
 <p>
   <a href="https://www.linkedin.com/in/talal-habib-malik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
