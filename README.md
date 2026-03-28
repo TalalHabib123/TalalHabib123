@@ -1,4 +1,22 @@
 <div align="center">
+
+
+# Talal Habib Malik
+
+### Software Engineer • AI Engineer
+
+<p>
+  <a href="https://www.linkedin.com/in/talal-habib-malik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:talalhabibmalik123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Express-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Vite-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-OCR%20%7C%20RAG%20%7C%20Computer%20Vision-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-111827?style=flat-square" />
+</p>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
@@ -20,22 +38,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
 </div>
-
-# Talal Habib Malik
-
-### Software Engineer • AI Engineer
-
-<p>
-  <a href="https://www.linkedin.com/in/talal-habib-malik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:talalhabibmalik123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Express-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Vite-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI-OCR%20%7C%20RAG%20%7C%20Computer%20Vision-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-111827?style=flat-square" />
-</p>
 
 </div>
 
