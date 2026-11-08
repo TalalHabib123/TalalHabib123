@@ -1,11 +1,11 @@
 <div align="center">
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=86&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=20&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=86&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=20&theme=cobalt" />
 </div>
 
 # Talal Habib Malik
 
-### Software Engineer • Backend Engineer • System Design Engineer • AI Engineer
+### Software Engineer • Agentic AI • Backend & Distributed Systems • Cloud Engineering
 
 <p>
   <a href="https://www.linkedin.com/in/talal-habib-malik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -13,32 +13,28 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Express-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Vite-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI-OCR%20%7C%20RAG%20%7C%20Computer%20Vision-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Go%20%7C%20Express-111827?style=flat-square" alt="Backend: FastAPI, Go, Express" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-LangGraph%20%7C%20MCP%20%7C%20Foundry-111827?style=flat-square" alt="Agentic AI: LangGraph, MCP, Foundry" />
+  <img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS-111827?style=flat-square" alt="Cloud: Azure, AWS" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Vue-111827?style=flat-square" alt="Frontend: React, Next.js, Vue" />
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="56" alt="Python" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="56" alt="FastAPI" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=go" height="56" alt="Go" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ts" height="56" alt="TypeScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="56" alt="Azure" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=docker" height="56" alt="Docker" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=react" height="56" alt="React" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="56" alt="PostgreSQL" />
 </div>
 
 </div>
@@ -46,42 +42,59 @@
 ---
 
 ## 👨‍💻 Professional Snapshot
-I build **production-grade backend and AI-enabled systems** with strong end-to-end ownership across architecture, implementation, debugging, and deployment.
+
+I build **enterprise agentic AI systems, backend services, and cloud-native developer tools**, with a focus on reusable architecture, distributed orchestration, performance, and reliability.
+
+Currently at **Systems Limited**, working with the **PartnerLinQ offshore engineering team** on a custom enterprise agentic AI framework and its supporting infrastructure.
 
 Core focus areas:
-- ⚙️ Backend engineering and API design
-- 🤖 AI integration in real product workflows (OCR, RAG, CV)
-- 🚀 Production optimization, observability, and reliability
-- 🧰 Internal tooling and developer productivity
-- 🌐 Full-stack delivery (frontend + backend + cloud)
+- 🤖 **Agentic AI engineering:** configurable workflows, capability orchestration, MCP tools, reusable skills, and agent integrations
+- ⚙️ **Backend and distributed systems:** API design, multi-tenant services, state management, and system boundaries
+- ☁️ **Cloud engineering:** Azure AI Foundry, Azure application services, data infrastructure, and deployment
+- 🚀 **Performance and reliability:** parallel execution, observability, troubleshooting, and optimization
+- 🧰 **Developer tools and full-stack apps:** local-first utilities, desktop applications, and practical integrations
 
 ---
 
 ## 📈 Impact Highlights
-- Reduced AI pipeline request time from **~1–2 min to <30 sec** through caching, multithreading, and processing optimization.
-- Reduced SDK setup flow from **~2–3 min to ~10–30 sec** via a VS Code extension.
-- Reduced labeling effort by **~5–10 min per item** with AI-assisted annotation support.
+
+- Built capabilities for an **enterprise agentic AI framework**, supporting configurable low-code/no-code workflows, reusable tools and skills, and distributed agent orchestration.
+- Implemented **Azure AI Foundry session multiplexing** for tenant- and user-scoped session reuse, isolation, and idle-expiration handling.
+- Accelerated **multi-feed NL2SQL workflows from ~2–3 minutes to ~1 minute** using parallel execution and cross-feed consistency handling.
+- Reduced an earlier **AI processing pipeline from ~1–2 minutes to under 30 seconds** through caching, multithreading, and execution optimization.
+- Cut **SDK onboarding from ~2–3 minutes to ~10–30 seconds** using a VS Code extension and automated setup workflows.
 
 ---
 
 ## 🧠 Experience Highlights
-> (Focused on contributions and outcomes)
+
+> Selected engineering contributions and outcomes.
+
+### Systems Limited — PartnerLinQ Offshore Engineering Team (May 2026 – Present)
+
+*Associate Consultant – Engineering | Agentic AI Software Engineering*
+
+- Contributed to a **custom, multi-tenant agentic AI framework** powering configurable low-code/no-code enterprise workflows, integrating reusable capabilities, MCP tools, skills, and Azure AI Foundry agents.
+- Built shared **agent orchestration and capability-routing infrastructure**, supporting modular agent services, workflow execution, and inter-agent coordination.
+- Implemented **tenant- and user-aware Foundry session management**, with session reuse, isolation, occupancy controls, and expiration policies across agent services.
+- Parallelized **NL2SQL processing across multiple data feeds**, reducing end-to-end reporting latency from **~2–3 minutes to ~1 minute** while improving query consistency.
+- Developed **SQL-aware alert recommendations** with configurable thresholds, operators, schedules, and validation against the original query structure.
+- Extended **stateful workflow execution** with resumability and conditional branching, preserving progress across multi-step enterprise processes.
+- Built **execution-level reporting and observability** for agent workflows, including node timings, latency percentiles, error analysis, and slow-query investigation.
 
 ### VisionRD (Jul 2025 – Dec 2025)
-- Built and maintained backend services with **FastAPI** and **Express.js**.
-- Delivered production AI workflow support for OCR/document verification pipelines.
-- Improved reliability via logging upgrades, debug modes, and inference/service separation.
-- Worked across **Redis, MongoDB, PostgreSQL, SQLite** in microservice-style architectures.
 
-### DataInsight (APIMatic Client) (Jan 2025 – Apr 2025)
-- Owned project delivery as a solo engineer across frontend, backend, and deployment.
-- Built VS Code extension automation that significantly improved SDK onboarding speed.
-- Integrated API Copilot-style assistant into IDE workflow.
-- Shipped with **React/Vite + FastAPI**, deployed on **Azure App Service** with **Azure Table Storage**.
+- Developed backend and AI processing services using **FastAPI and Express.js**, including OCR-based document verification and computer vision workflows.
+- Improved AI pipeline latency from **~1–2 minutes to under 30 seconds**, and strengthened reliability through debugging, logging, and separation of inference workloads.
+
+### DataInsight — APIMatic Client (Jan 2025 – Apr 2025)
+
+- Independently delivered a **VS Code extension and supporting APIs** for SDK onboarding and IDE-based developer assistance, cutting setup from **~2–3 minutes to ~10–30 seconds**.
+- Built with **React/Vite, FastAPI, Azure App Service, and Azure Table Storage**.
 
 ### Cognitive Healthcare International (Jun 2023 – Aug 2023)
-- Contributed to an appointments + prescriptions + online meeting management system.
-- Delivered full-stack work with **React, Express, Stripe, Jitsi**, and cloud hosting flows.
+
+- Contributed to a healthcare scheduling and meeting-management application using **React, Express.js, Stripe, and Jitsi**.
 
 ---
 
@@ -89,29 +102,33 @@ Core focus areas:
 
 | Project | What I Built | Core Stack |
 |---|---|---|
-| **Toyota Document Verification / OCR** | Production OCR parser for vehicle/order validation, fallback handling for noisy scans, separated inference workloads for stability | FastAPI, OCR stack, microservices |
-| **InspectionAI (PCB Inspection)** | Factory-floor CV workflow using golden-board validation, 4K image capture, orientation checks, and reliability-focused debugging | Computer Vision, Python tooling |
-| **Haval Insights POC** | Forum ingestion → cleanup → vector indexing pipeline, sub-query optimization, reference-backed Q&A with persistent state | Chroma, RAG, data pipelines |
-| **Meeting Analyzer** | Post-meeting + live-chat intelligence with transcript windowing, evidence-based outputs, and fallback RAG over historical meetings | Grok, Gemini, Deepgram, AssemblyAI, Chroma |
-| **MockFuse Desktop App** | Tauri-based local dev tool to mock/proxy APIs (REST/GraphQL/SSE/socket), manage gateway lifecycle, and persist project states | Tauri, React, YAML |
+| **[Remote Manager](https://github.com/TalalHabib123/remote-manager)** *(Preview)* | Windows personal-server manager with local web dashboard, app registration, secure Tailscale Serve access, and packaged setup/update workflows. | Python, React, SQLite, Tailscale, Windows |
+| **[Urdu OCR & Dataset Pipeline](https://github.com/TalalHabib123/auto-image-labeling-urdu)** | Document extraction pipeline with Gemini integration, local/NAS ingestion, human-in-the-loop review, and reproducible training-data exports. | Python, Gemini, Pydantic, YAML, OCR |
+| **[MediaVault](https://github.com/TalalHabib123/MediaVault)** | Local-first media catalog with recursive scanning, structured metadata, preview generation, and browser/VLC playback. | Go, React, TypeScript, SQLite, FFmpeg |
+| **[MockFuse](https://github.com/TalalHabib123/MockFuse)** *(In progress)* | Desktop project and gateway manager with typed Go/Wails-to-React contracts; full network proxy runtime remains unfinished. | Go, Wails, React, TypeScript, YAML |
+| **[Urdu Storytelling](https://github.com/TalalHabib123/Udru-Storytelling--ASR-to-TTS)** | Voice-to-story application linking speech recognition, a local LLM, and Urdu speech synthesis through a WebSocket backend. | FastAPI, React, Whisper, Ollama, PyTorch |
+| **[Document Forger](https://github.com/TalalHabib123/document_forger)** | Synthetic document variation generator using OCR and text-level edits to help evaluate forgery-detection systems. | Python, OCR, Tesseract |
+| **[CodeNexus](https://github.com/TalalHabib123/codenexus)** | VS Code extension for Python code-smell detection, AST-assisted analysis, editor diagnostics, guided refactoring, and history. | TypeScript, VS Code API, Python, FastAPI, AST |
 
 ---
 
 ## ⚡ Core Technical Stack
 
-- **Backend:** Python, FastAPI, Express.js, NestJS, TypeScript
-- **Frontend:** React, Next.js, Vite, Vue.js
-- **Data/Storage:** PostgreSQL, MongoDB, Redis, SQLite, Azure Table Storage, Chroma
-- **Cloud/Infra:** Docker, AWS (EC2/S3), Azure App Service, GitHub Actions, Azure DevOps, Bicep
-- **AI/ML:** OCR pipelines, RAG systems, document parsing, CV workflows, Whisper/Faster-Whisper, Deepgram, AssemblyAI
+- **Backend & Languages:** Python, FastAPI, Go, TypeScript, Express.js, NestJS
+- **Agentic AI & AI Engineering:** LangGraph, Azure AI Foundry, Model Context Protocol (MCP), agent orchestration, RAG, OCR, PyTorch
+- **Data & Storage:** PostgreSQL, SQL Server, MongoDB, Redis, SQLite, Azure Table Storage, Chroma
+- **Cloud & Data Infrastructure:** Azure App Service, Azure AI Foundry, Azure Data Factory, Azure Databricks, Azure Key Vault, AWS (EC2/S3)
+- **DevOps & Observability:** Docker, GitHub Actions, Azure DevOps, MLflow, Sentry
+- **Frontend & Desktop:** React, Next.js, Vue.js, Vite, Wails, Tauri (previously)
 
 ---
 
 ## 🎯 What I Bring
-- Production-first AI engineering mindset
-- Strong debugging + optimization approach
-- End-to-end ownership from build to deployment
-- System design thinking around reliability, boundaries, and maintainability
+
+- Experience building **agentic AI capabilities as reusable enterprise software**, not only standalone prototypes
+- Strong **backend and systems-design fundamentals** across service boundaries, state, tenancy, and reliability
+- Practical **performance optimization and observability** in data- and AI-intensive workflows
+- End-to-end implementation across **APIs, frontend, cloud services, and developer tooling**
 
 ---
 
@@ -124,6 +141,7 @@ Core focus areas:
 <div align="center">
 
 ### Thanks for visiting 👋
-If you want, I can share project walkthroughs and architecture details for selected work.
+
+Feel free to connect if you'd like to discuss agentic AI, backend engineering, or developer tools.
 
 </div>
